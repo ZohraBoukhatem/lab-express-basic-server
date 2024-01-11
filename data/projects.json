@@ -1,34 +1,26 @@
 [
     {
-        "title": "Blackjack Game",
-        "description": "Simple blackjack game, built with vanilla JavaScript, HTML, and CSS.",
-        "image": "https://placehold.co/600x400/4265E6/FFFFFF.png?text=Project+Screenshot",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
+        "title": "What now?",
+        "description": "An interactive news portal in which users can write news snippets, edit and delete posts, as well as comment and like. It is a collaborative effort of the amazing @Cristina Ramos Pascual and me, and the final product of an Ironhack project.",
+        "image": "WhatNow_capture.png",
+        "github": "https://github.com/orgs/CrisZohra/repositories",
+        "deployed": "https://what-now-news.netlify.app/",
+        "techStack": ["HTML", "CSS", "JavaScript", "React"]
+    },
+    {
+        "title": "Dragon pong",
+        "description": "A simple tennis like game with two players and a (dragon)ball. The goal is to protect the wall behind you and defeat your opponent by making the opponent miss the ball.",
+        "image": "DragonPong_capture.png",
+        "github": "https://github.com/ZohraBoukhatem/dragon-pong",
+        "deployed": "https://zohraboukhatem.github.io/dragon-pong/",
         "techStack": ["HTML", "CSS", "JavaScript"]
     },
     {
-        "title": "Jira Clone",
-        "description": "Bootcamp group project. Full stack application built with React, JSON Server, and React Testing Library",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
-        "techStack": ["React", "Node", "JSON Server", "React Testing Library"]
-    },
-    {
-        "title": "Cohort Tools",
-        "description": "Bootcamp group project. Full stack application built with React, Node, ExpressJS,  MongoDB, and Tailwind.",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
-        "techStack": ["React", "Node", "Express", "MongoDB", "Tailwind"]
-    },    
-    {
-        "title": "Weather Dashboard",
-        "description": "Weather tracking application built with React, Node, ExpressJS, MongoDB, Ant Design, and OpenWeather API.",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
-        "techStack": ["React", "Node", "Express", "MongoDB", "Ant Design"]
+        "title": "Aniki",
+        "description": "An anime list website, a forum of sorts, in which users can access information of different anime, review them and modify different preference lists. Unauthenticated users are unable to comment or add, but they can still access anime information.",
+        "image": "Aniki_capture.png",
+        "github": "https://github.com/orgs/Anikiorg/repositories",
+        "deployed": "https://aniki-app.netlify.app",
+        "techStack": ["React", "Node", "Express", "MongoDB", "Tailwind", "HTML", "CSS", "JavaScript"]
     }
 ]
